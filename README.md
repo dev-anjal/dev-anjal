@@ -1,7 +1,12 @@
 # 💫 About Me:
 <br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: ExploreNepal – a travel service web platform<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
 
-All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names
+All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
+- i use Next js as my frontend (Mostly)
+- but i use Express as my backend ( because i feel i am more in control and i host my backend seperatrly)
+- Relational Database is my GOTO
+- if the app is basic and client just want to change data of their website i go with MongoDB
+- I do not let the client add new admins to access the backend ( neither i even create any endpoint for it because majority of my works are for single admin, or they can add more on Demand and it will be a manual process, so if you are trying to find a way to sneek into their dashboard creating your own account, forget it)
 ## 💸 Paid Works
 [![SEW Transformers](https://sewtransformers.com)]
 
