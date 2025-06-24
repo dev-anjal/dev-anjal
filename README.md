@@ -8,7 +8,7 @@ All the Repo for my Paid Works will be private because the clients dont consent 
 - if the app is basic and client just want to change data of their website i go with MongoDB
 - I do not let the client add new admins to access the backend ( neither i even create any endpoint for it because majority of my works are for single admin, or they can add more on Demand and it will be a manual process, so if you are trying to find a way to sneek into their dashboard creating your own account, forget it)
 ## 💸 Paid Works
-[![SEW Transformers](https://sewtransformers.com)]
+[![SEW Transformers](https://sewtransformers.com)]..
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjal-phuyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjalphuyal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anjalphuyal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thevirtualterminal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:flameanjal@gmail.com) 
