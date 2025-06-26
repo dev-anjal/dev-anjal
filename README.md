@@ -20,7 +20,7 @@ All the Repo for my Paid Works will be private because the clients dont consent 
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=dev-anjal&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
+![](https://github-readme-stats.vercel.app/api?username=evalAnjal&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) &nbsp;
 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dev-anjal&theme=catppuccin_mocha&hide_border=false)<br/>
