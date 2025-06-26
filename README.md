@@ -6,7 +6,7 @@ All the Repo for my Paid Works will be private because the clients dont consent 
 - but i use Express as my backend ( because i feel i am more in control and i host my backend seperatrly)
 - Relational Database is my GOTO
 - if the app is basic and client just want to change data of their website i go with MongoDB
-- I do not let the client add new admins to access the backend ( neither i even create any endpoint for it because majority of my works are for single admin, or they can add more on Demand and it will be a manual process, so if you are trying to find a way to sneek into their dashboard creating your own account, forget it)
+- I do not let the client add new admins to access the backend ( neither i even create any endpoint for it because majority of my works are for single admin, or they can add more on Demand and it will be a manual process, so if you are trying to find a way to sneek into their dashboard creating your own account, forget it).
 ## 💸 Paid Works
 [![SEW Transformers](https://sewtransformers.com)]..
 
