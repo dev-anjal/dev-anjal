@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: ExploreNepal – a travel service web platform<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
+<br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: YatraPal – a travel service web platform and a project very close to my heart<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
 
 All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
 - i use Next js as my frontend (Mostly)
