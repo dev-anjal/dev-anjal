@@ -3,8 +3,9 @@
 
 
 # 💸 Paid Works
-[![SEW Transformers](https://sewtransformers.com)] [![Birat Medical Foundation (BMC)](https://sewtransformers.com)]
+[![SEW Transformers](https://sewtransformers.com)] [![Birat Medical Foundation (BMSC)](https://sewtransformers.com)]
 
+<hr>
 All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
 - i use Next js as my frontend (Mostly)
 - but i use Express as my backend ( because i feel i am more in control and i host my backend seperatrly)
