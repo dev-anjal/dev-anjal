@@ -1,14 +1,16 @@
 # 💫 About Me:
 <br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: YatraPal –travel service platform & a project very close to my heart<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
 
+
+# 💸 Paid Works
+[![SEW Transformers](https://sewtransformers.com)] [![Birat Medical Foundation (BMC)](https://sewtransformers.com)]
+
 All the Repo for my Paid Works will be private because the clients dont consent to share the code to everyone, their code is not in my personal repo but rather on differnet organisation of their respective Names, but if you still wanna know some details then here are some of it
 - i use Next js as my frontend (Mostly)
 - but i use Express as my backend ( because i feel i am more in control and i host my backend seperatrly)
 - Relational Database is my GOTO
 - if the app is basic and client just want to change data of their website i go with MongoDB
 - I do not let the client add new admins to access the backend ( neither i even create any endpoint for it because majority of my works are for single admin, or they can add more on Demand and it will be a manual process, so if you are trying to find a way to sneek into their dashboard creating your own account, forget it).
-## 💸 Paid Works
-[![SEW Transformers](https://sewtransformers.com)] [![Birat Medical Foundation (BMC)](https://sewtransformers.com)]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anjal-phuyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjalphuyal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anjalphuyal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thevirtualterminal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:flameanjal@gmail.com) 
