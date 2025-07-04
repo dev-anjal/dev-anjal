@@ -1,6 +1,7 @@
 # 💫 About Me:
 <br><br><H3>Hi, I'm Anjal! I'm a developer who enjoys building web apps and APIs, exploring Linux systems, and learning new frameworks.<br><br>- 🔭 Currently working on: YatraPal –travel service platform & a project very close to my heart<br>- 🌱 Learning: Advanced React, Stripe integration, backend optimization<br>- 💡 Interested in: Full-stack dev, UI/UX, and startup tech<br>- 🛠️ Stack: JavaScript, Node.js, Express, MongoDB, React<br>- 📫 Reach me at: flameanjal@gmail.com</H3><br><br>
 <hr>
+
 # 💸 Paid Works
 [![SEW Transformers](https://sewtransformers.com)] [![Birat Medical Foundation (BMSC)](https://sewtransformers.com)]
 
